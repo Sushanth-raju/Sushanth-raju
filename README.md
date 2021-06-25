@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Sushanth-raju
-- 👀 I’m interested in Web Development ,DBMS AND Java.
+- 👀 I’m interested in Full stack Web Developer.
 - 🌱 I’m currently learning Backend WD for full stack web engineer.
 - 💞️ I’m looking to collaborate on Web Development
-- 📫 How to reach me - sushanthraju@gmail.com
+- 📫 How to reach me - sushanthraju87@gmail.com
 
 
 <!---
